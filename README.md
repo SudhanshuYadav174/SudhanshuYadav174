@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- TOP PIXEL ART CYBERPUNK BANNER - same style as the image -->
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWV0dzYyNXJmdG1nMmtiZHBsdGk0MjVoanN2OHg5MHBtZDM1aGo0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SUcnmocyRKkfSil9xd/giphy.gif" width="100%" alt="banner"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtmMzhpcWo3bnd4cWw3YnkxbGUwY2JuNjUzc3V6MTRxYWJ6eGZqeSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/lgTpcy4dkdUc0/giphy.gif" width="100%" alt="banner"/>
 
 <br/>
 
