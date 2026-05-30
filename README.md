@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/banner.gif" width="100%" alt="banner"/>
 
 <!-- If you don't have a custom GIF, use this pixel-art style capsule render instead: -->
-<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1a2e&height=300&text=Sudhanshu%20Yadav&fontColor=58a6ff&fontSize=60&desc=Developer%20%7C%20AI%20Enthusiast&descColor=8b949e&descSize=20&animation=fadeIn"/> -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1a2e&height=300&text=Sudhanshu%20Yadav&fontColor=58a6ff&fontSize=60&//desc=Developer%20%7C%20AI%20Enthusiast&descColor=8b949e&descSize=20&animation=fadeIn"/>
 
 <br/>
 
