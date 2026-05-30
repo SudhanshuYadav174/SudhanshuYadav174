@@ -19,8 +19,6 @@
 
 </div>
 
----
-
 <!-- ABOUT ME - two column layout: image left, text right -->
 <table>
 <tr>
@@ -48,8 +46,6 @@
 </tr>
 </table>
 
----
-
 ## 🎨 Languages & Tools I Have Placed My Hands On
 
 <div align="center">
@@ -63,8 +59,6 @@
 <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,html,debian,neovim,atom,powershell&perline=9" />
 
 </div>
-
----
 
 ## 💻 Tech Stack:
 
@@ -96,9 +90,8 @@
 
 </div>
 
----
-
 <!-- BOTTOM CAPSULE FOOTER -->
 <div align="center">
 <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWc0MmMyMGViMWZ1bTBvbWQwbGpieHkzZnJwdDE3eWNveG94aTVubSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fW6yzJe1ZM5bi/giphy.gif" />
 </div>
+
