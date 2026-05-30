@@ -32,7 +32,7 @@ education: Computer Science
 - 💡 Love working with **.NET Framework**, **Python**, and **JavaScript ecosystems**
 - 🤝 Open to collaborating on **interesting open-source projects**
 - 🎯 Mantra: *"I only like perfection."*
-- 📬 Reach me: [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:youremail@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+- 📬 Reach me: [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sudhanshuyadav174@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshuyadav13)
 
 ---
 
@@ -132,21 +132,8 @@ education: Computer Science
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SudhanshuYadav174)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/yourprofile)
-
-</div>
-
----
-
-## ☕ Support My Work
-
-<div align="center">
-
-If you find my projects useful or inspiring, consider buying me a coffee!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshuyadav13)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhanshuyadav174@gmail.com)
 
 </div>
 
