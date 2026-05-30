@@ -46,7 +46,7 @@
 </tr>
 </table>
 
-## 🎨 Languages & Tools I Have Placed My Hands On
+### 🎨 Languages & Tools I Have Placed My Hands On
 
 <div align="center">
 
@@ -60,7 +60,7 @@
 
 </div>
 
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 
 <div align="center">
 
