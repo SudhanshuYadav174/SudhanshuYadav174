@@ -1,10 +1,8 @@
+
 <div align="center">
 
 <!-- TOP PIXEL ART CYBERPUNK BANNER - same style as the image -->
-<img src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/banner.gif" width="100%" alt="banner"/>
-
-<!-- If you don't have a custom GIF, use this pixel-art style capsule render instead: -->
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmwwZzUwYWd5eHcwc3NvdTh2MzFlY3dvZWVnMmZ0ajB4Nmd0cWRlayZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/WtHx3AgLym7WXeHYBh/giphy.gif
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmwwZzUwYWd5eHcwc3NvdTh2MzFlY3dvZWVnMmZ0ajB4Nmd0cWRlayZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/WtHx3AgLym7WXeHYBh/giphy.gif" width="100%" alt="banner"/>
 
 <br/>
 
@@ -42,8 +40,8 @@ https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmwwZzUwYWd5eHcwc3NvdTh2MzFlY3d
 
 ### 🔴 Drop me a line:
 
-<a href="mailto:youremail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
-<a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+<a href="mailto:sudhanshuyadav174@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+<a href="https://www.linkedin.com/in/sudhanshuyadav13"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
 <a href="https://github.com/SudhanshuYadav174"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
 
 </td>
@@ -100,20 +98,7 @@ https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmwwZzUwYWd5eHcwc3NvdTh2MzFlY3d
 
 ---
 
-## 💰 Support Me
-
+<!-- BOTTOM CAPSULE FOOTER -->
 <div align="center">
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourprofile)
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
 </div>
-
----
-
-<!-- BOTTOM PIXEL ART JAPANESE GARDEN BANNER -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/JoshuaThadi/JoshuaThadi/main/footer.gif" width="100%" alt="footer"/>
-</div>
-
-<!-- Fallback static footer if GIF not available: -->
-<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=120&section=footer"/> -->
